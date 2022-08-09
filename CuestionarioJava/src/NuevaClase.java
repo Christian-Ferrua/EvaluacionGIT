@@ -3,7 +3,6 @@ public class NuevaClase {
                int j= 0;    //agregando nuevas cosas
 
                int es = 15500;  //sssdd
-
-               double pes = 156.1;
+               // eliminado codigo
            }
 }
